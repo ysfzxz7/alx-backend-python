@@ -3,7 +3,7 @@
   module of the add function
 """
 
-def add(a: float, b: float):
+def add(a: float, b: float) -> float:
   """
     function that add two variables a and b
     return:
