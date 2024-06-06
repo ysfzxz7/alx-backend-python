@@ -11,5 +11,5 @@ def to_str(a: float) -> str:
     return:
     the str reper of a
     """
-    rst: str = str(a)
-    return rst
+
+    return str(a)
