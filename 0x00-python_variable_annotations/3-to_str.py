@@ -1,15 +1,15 @@
 #!/use/bin/env python3
 
 """
-the module to the to str func
+the module to the to_str func
 """
 
 
-def to_str(a: float) -> str:
+def to_str(n: float) -> str:
     """
-    a function that takes a float
+    function to_str that takes a float
     return:
-    the str reper of a
+      the str reper of n
     """
 
     return str(a)
