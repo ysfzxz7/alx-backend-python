@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 
 """
-  Module of the add function
+    Module of add function
 """
 
 
 def add(a: float, b: float) -> float:
-  """
-    function that adds two flowting numbers a and b
-    
-    return:
-      It return the sum of a and b
-  """
-  
-  return a + b
+    """
+        Function that adds two floating numbers
+
+        return:
+            It returns the addition of the two floating numbers
+    """
+
+    return a + b
